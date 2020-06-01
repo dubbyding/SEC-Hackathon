@@ -1,0 +1,11 @@
+https://www.expedia.com/Hotel-Search?adults=1&chid=f3c9cdc1-6dba-41f3-b738-63395540f583&defdate=1&endDate=6%2F30%2F2019&itt=1&langid=1033&mctc=5&mdpcid=US.META.TRIVAGO.HOTELSCORESEARCH.HOTEL&mdpdtl=HTL.1110314.KATHMANDU.los%3D1.losb%3D1.ttt%3D8.tttb%3D8.trv_bm%3Da&mrp=0&paandi=true&regionId=1938&selected=1110314&startDate=6%2F29%2F2019&trv_curr=USD&trv_dp=44&trv_reference=cb37fa60-dede-414f-9036-797c34bb234d
+
+
+
+https://www.expedia.com/Kantipur-Temple-House.h1110314.Hotel-Information?chkin=6%2F29%2F2019&chkout=6%2F30%2F2019&regionId=1938&destination=Kathmandu%2C+Nepal&swpToggleOn=true&mctc=5&selected=1110314&rm1=a1&x_pwa=1&sort=recommended&MDPDTL=HTL.1110314.KATHMANDU.los%3D1.losb%3D1.ttt%3D8.tttb%3D8.trv_bm%3Da&MDPCID=US.META.TRIVAGO.HOTELSCORESEARCH.HOTEL&top_dp=44&top_cur=USD&rfrr=HSR&pwa_ts=1561089699512&hasClusterProp=false
+
+
+https://www.expedia.com/HotelCheckout?tripid=61fb52e1-5dc9-4c8b-886b-b68ccf940d3e&c=de372aec-826f-4543-a411-95e7d7e14571&swpApplied=true
+
+
+https://www.oyorooms.com/18378-oyo-rooms-oyo-120-hotel-tayoma-kathmandu

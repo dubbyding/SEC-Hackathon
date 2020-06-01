@@ -1,0 +1,78 @@
+a
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#content
+{  min-height: 300px;
+}
+#search
+{
+    height: 100px;
+}
+#mainrow
+{
+    //border: 1px solid black;
+    height: 100%;
+}
+.col-2,.col-10,.col-sm,.col-12
+{
+   // border: 1px solid black;
+}
+.col-2
+{
+    background:linear-gradient(black,darkblue);
+}
+h5
+{
+    text-align: center;
+}
+img
+{
+    height: 640px;
+    widows: 360px;
+}
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.checked {
+    color: orange;
+  }
+.container{
+    position: relative;
+    margin: 20px;
+    width: 100px;
+    padding: 30px;
+    border-radius: 10px;
+    color: black;
+}
+input[type=text], input[type=date] ,input[type=date]{
+    width: 30%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=date]:focus,input[type=date]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }

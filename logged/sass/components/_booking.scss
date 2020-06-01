@@ -1,0 +1,45 @@
+.booking {
+   font-size: $default-font-size;
+   //    width: 34rem;
+   //    height: 35rem;
+
+   padding: 0 0.8rem;
+   &__image {
+      //   width: 34rem;
+      //   height: 23rem;
+      &--effect {
+         border: 1px solid $color-black;
+         border-radius: 3px;
+      }
+   }
+   &__detail {
+      &__tags {
+         &--plus {
+            color: $color-grey-dark;
+            text-transform: uppercase;
+            font-weight: 700;
+            padding: 2px;
+            background-color: $color-primary;
+            border-radius: 3px;
+         }
+
+         &--verified,
+         &--name {
+            font-weight: 600;
+         }
+      }
+      &__tag {
+         display: inline-block;
+         &:not(:last-child) {
+            margin-right: 1rem;
+         }
+      }
+
+      &__location {
+         color: $color-secondary-light;
+      }
+      &__price {
+         font-weight: 100;
+      }
+   }
+}

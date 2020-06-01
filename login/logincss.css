@@ -1,0 +1,130 @@
+html,body
+{
+    background: url("img/homestay-nepal.jpg");
+    background-size: 1080px 1920px;
+    position: relative;
+    background-size: cover;
+    margin: 0 auto;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo-image{
+    height: 20%;
+    width: 20%;
+}
+
+.navbar{
+    padding: .8rem;
+}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+.centered{
+    position: relative;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -1%);
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+  
+
+ input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+  
+ input[type="password"]:focus 
+{
+    background-color: #ddd;
+    outline: none;
+}
+input[type="text"]
+{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+input[type="text"]:focus
+{
+    background-color: #ddd;
+    outline: none;  
+}
+.social{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -0%);
+}
+.social a{
+      font-size: 30px;
+      padding: 5px;
+
+}
+.fa-facebook{
+      color: #3b5998;
+}
+.fa-google-plus-g{
+    color: #dd4b39;
+}
+.fa-facebook:hover,
+.fa-google-plus-g:hover{
+    color: #d5d5d5;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+form
+{
+    width: 40%px;
+    background:url("img/matdark.JPG");
+    opacity: 0.9;
+}
+input[type="submit"]
+{
+     color:snow;
+     border-radius: 50px;
+     margin-top: 30px;
+     width: 30%;
+     height: 5%;
+     margin-left:5%;
+     background:purple;
+     display: block;
+
+}
+input[type="submit"]:hover
+{
+    opacity: 1;
+}
+label
+{
+    color: snow;
+}
+::placeholder
+{
+    background: transparent;
+}
+/*input[value="Login"]
+{
+    background-color: purple;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9; 
+}*/

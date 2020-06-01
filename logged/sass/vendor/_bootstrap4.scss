@@ -1,0 +1,139 @@
+// for rating
+
+.checked {
+   color: orange;
+}
+
+.icon {
+   padding: 1px;
+   align-content: center;
+}
+
+.float-right {
+   float: right;
+}
+
+.rating-view {
+   font-weight: 900;
+   font-size: 1.2rem;
+   margin-right: 0.8rem;
+}
+
+.amenities {
+   &--wrapper {
+      width: 2rem;
+      padding: 0.5rem 2rem;
+      display: block;
+   }
+   font-size: 2rem;
+
+   position: relative;
+
+   &__icon {
+      display: block;
+      padding: 0rem 1rem;
+      position: absolute;
+      // font-size: 1rem;
+   }
+   &__text {
+      position: absolute;
+      display: block;
+      top: -0.6rem;
+      left: 5rem;
+      font-size: 2rem;
+   }
+}
+
+.home-rules,
+.places,
+.hotel-nearby,
+.market,
+.facilities {
+   margin-bottom: 3rem;
+   ul {
+      li {
+         list-style: none;
+         font-size: $default-font-size;
+         margin-bottom: 1rem;
+      }
+   }
+}
+
+.modal {
+   padding-left: 1.2rem;
+}
+.modal-title {
+   font-size: 1.6rem;
+   font-weight: 500;
+   line-height: 1.25rem;
+}
+
+.booking__proceed {
+   position: relative;
+   &__heading {
+      font-weight: 700;
+   }
+   ul {
+      padding-left: 2rem;
+   }
+
+   &__book {
+      position: absolute;
+      top: 2rem;
+      right: 2rem;
+   }
+
+   &__price {
+   }
+   &__btn--book {
+   }
+}
+
+.toggle-tab {
+   font-size: 2rem;
+}
+
+.hr-width {
+   width: 65%;
+}
+
+.input-date {
+   height: 3rem;
+
+   -webkit-appearance: listitem;
+}
+
+input[type="date"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="time"] {
+   -webkit-appearance: listitem;
+   background-color: $color-background;
+}
+
+.card {
+   font-size: $default-font-size;
+}
+
+.logo-image {
+   height: 20%;
+   width: 20%;
+   border-radius: 100px;
+}
+
+.navbar {
+   padding: 0.8rem;
+   box-shadow: 1px 1px 20px black;
+}
+.navbar-nav li {
+   padding-right: 20px;
+}
+.nav-link {
+   font-size: 1.1em !important;
+}
+
+footer {
+   background-color: #3f3f3f;
+   color: #d5d5d5;
+   padding-top: 2rem;
+}
